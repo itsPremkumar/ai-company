@@ -40,6 +40,11 @@
 | `wazuh/wazuh` | https://github.com/wazuh/wazuh | SOC/SIEM |
 | `keycloak/keycloak` | (above) | IAM |
 
+## Backup & Disaster Recovery
+| Project | Link | Role |
+|---|---|---|
+| `kopia/kopia` | https://github.com/kopia/kopia (13.3k★, Apache-2.0) | Encrypted, deduplicated backups with web UI |
+
 ## API Gateway
 | Project | Link | Role |
 |---|---|---|

@@ -42,8 +42,9 @@
 - `browser-use/browser-use` ✅ 104.1k, `microsoft/playwright` (canonical), `SeleniumHQ/selenium`
 
 ## 📊 Data / BI / Analytics
-- `grafana/grafana` ✅ 75.5k, `metabase/metabase` ✅ 48.1k, `apache/superset` (canonical),
-  `matomo-org/matomo` (canonical), `plausible/plausible` (canonical), `duckdb/duckdb` (canonical)
+- `airbytehq/airbyte` ✅ 21.5k (MIT), `grafana/grafana` ✅ 75.5k, `metabase/metabase` ✅ 48.1k,
+  `apache/superset` (canonical), `matomo-org/matomo` (canonical), `plausible/plausible` (canonical),
+  `duckdb/duckdb` (canonical)
 
 ## 📣 Marketing / Email
 - `mautic/mautic` ✅ 10.1k, `knadh/listmonk` ✅ 22k (AGPL), Agent-Reach, `matic-framework/ComfyUI`
@@ -66,6 +67,18 @@
 - `keycloak/keycloak` ✅ 35.6k, `Infisical/infisical` ✅ 27.8k, `wazuh/wazuh`,
   `coollabsio/coolify` ✅ 58.2k, `minio/minio` ✅ 61.3k, Docker, Kubernetes, `grafana/loki`,
   `prometheus/prometheus`, `Kong/kong`, `rabbitmq/rabbitmq`, `nats-io/nats-server`, `ntfy-org/ntfy`
+
+## 💬 Internal Communication
+- `mattermost/mattermost` ✅ 38.3k (MIT) — self-hosted Slack alternative with AI integration
+
+## 📋 Feature Management
+- `Unleash/unleash` ✅ 13.6k (AGPL-3.0) — feature flags, gradual rollouts, A/B testing
+
+## 📋 Surveys & Feedback
+- `formbricks/formbricks` ✅ 13k (AGPL-3.0) — privacy-first survey platform, in-app/email/link surveys, MCP support
+
+## 💾 Backup & Disaster Recovery
+- `kopia/kopia` ✅ 13.3k (Apache-2.0) — encrypted, deduplicated backups with web UI
 
 ## 📖 Docs / PM / VCS / CI
 - `facebook/docusaurus` (canonical), `squidfunk/mkdocs-material` (canonical), `outline/outline`,

@@ -122,6 +122,21 @@ See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) 
 |---|---|---|---|---|
 | `HKUDS/OpenOPC` | 630 | MIT | https://github.com/HKUDS/OpenOPC | Self-built/self-run/self-grown AI company: org chart, kanban, roles, memory, Office UI |
 
+## 💬 Internal Communication / Team Chat
+| Project | ★ | License | Link | Role |
+|---|---|---|---|---|
+| `mattermost/mattermost` | 38.3k | MIT | https://github.com/mattermost/mattermost | Self-hosted Slack alternative — chat, voice, screen share, AI integration |
+
+## 📋 Feature Flags / Experimentation
+| Project | ★ | License | Link | Role |
+|---|---|---|---|---|
+| `Unleash/unleash` | 13.6k | AGPL-3.0 | https://github.com/Unleash/unleash | Feature flags, gradual rollouts, A/B testing, kill switches |
+
+## 📋 Surveys & Feedback
+| Project | ★ | License | Link | Role |
+|---|---|---|---|---|
+| `formbricks/formbricks` | 13k | AGPL-3.0 | https://github.com/formbricks/formbricks | Privacy-first survey platform (Qualtrics alternative), in-app/email/link surveys, MCP support |
+
 ## 🚀 Trending AI Workspaces & Agents (2026)
 | Project | ★ | License | Link | Role |
 |---|---|---|---|---|
@@ -131,6 +146,11 @@ See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) 
 
 ## 🎯 Why these matter
 Your core stack covered research/coding/voice/CRM/finance. These fill the **remaining real gaps**:
+- **Internal chat** (Mattermost) — human-agent collaboration channel
+- **Data pipeline** (Airbyte) — sync data across all 50+ tools in the stack
+- **Feature flags** (Unleash) — safe rollouts and A/B testing
+- **Surveys** (Formbricks) — NPS, customer research, product feedback
+- **Backup** (Kopia) — encrypted, deduplicated, web-UI backups for all self-hosted data
 - **Legal signing** (Documenso) — contracts are unavoidable in business
 - **Translation** (LibreTranslate) — your "Localization" department
 - **Scheduling** (cal.com) — AI books meetings/appointments

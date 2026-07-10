@@ -67,6 +67,9 @@
   `getplane/plane` (canonical), `openproject/openproject`, `gitea/gitea` (canonical),
   `forgejo/forgejo` (canonical), `jenkinsci/jenkins` (canonical), `woodpecker-ci/woodpecker` (canonical)
 
+## 🛍 E-Commerce
+- `medusajs/medusa` ✅ 35.1k (MIT), `saleor/saleor` (canonical), `vendure-ecommerce/vendure` (canonical)
+
 ## 🎨 Design / Media / Video
 - `matic-framework/ComfyUI` (images+video), `Penpot/penpot` (UI), `blender/blender`, `GIMP`,
   `Inkscape`, **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)

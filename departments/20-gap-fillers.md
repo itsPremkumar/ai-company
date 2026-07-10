@@ -70,6 +70,53 @@
 |---|---|---|---|
 | `zadam/trilium` | (canonical) | AGPL-3 | https://github.com/zadam/trilium |
 
+## 🤖 Local AI Inference (run models without API costs)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `ollama/ollama` | (canonical) | MIT | https://github.com/ollama/ollama | Local LLM runtime |
+| `ggml-ai/vllm` | (canonical) | Apache-2.0 | https://github.com/ggml-ai/vllm | High-throughput inference |
+| `ggml-ai/llama.cpp` | (canonical) | MIT | https://github.com/ggml-ai/llama.cpp | LLM inference in C++ |
+
+## 🔍 Search Engine (internal docs, products, site search)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `meilisearch/meilisearch` | (canonical) | MIT | https://github.com/meilisearch/meilisearch | Lightning-fast search API |
+| `typesense/typesense` | (canonical) | GPL-3 | https://github.com/typesense/typesense | Typo-tolerant search |
+| `opensearch-project/OpenSearch` | (canonical) | Apache-2.0 | https://github.com/opensearch-project/OpenSearch | ELK alternative |
+
+## 📊 Product Analytics (beyond web analytics)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `PostHog/posthog` | (canonical) | MIT | https://github.com/PostHog/posthog | Product analytics, session replay, feature flags |
+
+## 📝 Content Management System (blogs, landing pages, marketing sites)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `strapi/strapi` | (canonical) | MIT | https://github.com/strapi/strapi | Headless CMS |
+| `TryGhost/Ghost` | (canonical) | MIT | https://github.com/TryGhost/Ghost | Publishing platform |
+| `directus/directus` | (canonical) | GPL-3 | https://github.com/directus/directus | Headless CMS |
+
+## 🔐 Password Management (team secrets)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `dani-garcia/vaultwarden` | (canonical) | GPL-3 | https://github.com/dani-garcia/vaultwarden | Bitwarden-compatible server |
+| `passbolt/passbolt_api` | (canonical) | AGPL-3 | https://github.com/passbolt/passbolt_api | Team password manager |
+
+## 📁 File Sync & Collaboration
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `nextcloud/server` | (canonical) | AGPL-3 | https://github.com/nextcloud/server | File sync, talk, office |
+| `seafile/seafile` | (canonical) | AGPL-3 | https://github.com/seafile/seafile | File sync |
+
+## 💬 Community / Forum (customer community)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `discourse/discourse` | (canonical) | GPL-2 | https://github.com/discourse/discourse | Forum platform |
+| `NodeBB/NodeBB` | (canonical) | GPL-3 | https://github.com/NodeBB/NodeBB | Node.js forum |
+
+## 🛍 E-Commerce (online store / digital sales)
+See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) is the top pick.
+
 ## 🎯 Why these matter
 Your core stack covered research/coding/voice/CRM/finance. These fill the **remaining real gaps**:
 - **Legal signing** (Documenso) — contracts are unavoidable in business
@@ -79,5 +126,12 @@ Your core stack covered research/coding/voice/CRM/finance. These fill the **rema
 - **Agent eval/safety** (Langfuse/HumanLayer) — prevent runaway agents
 - **Vec-DB choice** (Qdrant/Weaviate/Chroma) — pick vs pgvector
 - **RPA** (OpenAdapt) — automate any desktop GUI task
+- **Local AI** (Ollama) — run models locally, zero API costs
+- **Search** (Meilisearch) — fast product/documentation search
+- **Product analytics** (PostHog) — understand user behavior
+- **CMS** (Strapi) — landing pages and marketing sites
+- **Password manager** (Vaultwarden) — self-hosted Bitwarden
+- **File sync** (Nextcloud) — document collaboration
+- **Community** (Discourse) — customer support forum
 
-➡️ Add the ones matching your actual needs; don't deploy all 40 at once.
+➡️ Add the ones matching your actual needs; don't deploy all 50 at once.

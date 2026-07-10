@@ -63,7 +63,12 @@ Each department file contains:
 - `departments/21-ecommerce.md` ← online store / digital sales (Medusa/Saleor)
 - `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `departments/23-products-catalog.md` ← 🛠 what the coding/product dept can BUILD & SELL
+- `departments/24-additional-departments.md` ← ➕ OSPO, BD, PR, Customer Success, DB Admin, Network, Procurement, Risk, Audit, Investor Rel, L&D, Accessibility, Incident Response
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map
 - `COMPULSORY_BASELINE.md` ← ⭐ THE DEFAULT 20-PROJECT SET every company must have
 - `MASTER_INDEX.md` ← 🗺 department ↔ project matrix (one-glance view)
 - `QUICKSTART.md` ← 🚀 concrete first steps (7-agent MVP → expand)
+- `DEPLOYMENT_BLUEPRINT.md` ← 🐳 Docker Compose configs for core 20 services
+- `COST_MODEL.md` ← 💰 monthly budget per tier (self-hosted / hybrid / full API)
+- `INTEGRATION_MAP.md` ← 🔗 data flow diagrams & webhook wiring
+- `ROLLOUT_ROADMAP.md` ← 📅 phased rollout: MVP → Growth → Scale

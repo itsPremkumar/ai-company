@@ -22,9 +22,10 @@
 - Agent-Reach, `unclecode/crawl4ai` ✅, `firecrawl/firecrawl` ✅ 148.8k (AGPL), `searxng/searxng` ✅
 
 ## 💻 Software Engineering
-- `All-Hands-AI/OpenHands` ✅ 80.3k, `TabbyML/tabby` ✅ 33.7k (Apache-2.0),
-  `QwenLM/qwen-code` ✅ 25.9k (Apache-2.0), `paul-gauthier/aider` (canonical),
-  `RooVetGit/Roo-Code` (canonical), `continuedev/continue` (canonical), **Hermes**
+- `anomalyco/opencode` ✅ 184k (MIT), `All-Hands-AI/OpenHands` ✅ 80.3k,
+  `TabbyML/tabby` ✅ 33.7k (Apache-2.0), `QwenLM/qwen-code` ✅ 25.9k (Apache-2.0),
+  `paul-gauthier/aider` (canonical), `RooVetGit/Roo-Code` (canonical),
+  `continuedev/continue` (canonical), **Hermes**
 
 ## 🤖 Multi-Agent Orchestration
 - `crewAIInc/crewAI` ✅ 55.3k, `langchain-ai/langgraph` ✅ 37k, `microsoft/autogen` ✅ 59.6k,
@@ -76,10 +77,10 @@
   `Inkscape`, **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
 
 ## ⭐ Top 25 "Must-Have" Core Stack
-1. Hermes Agent  2. Agent-Reach  3. OpenHands  4. LangGraph  5. CrewAI  6. Dify  7. Flowise
-8. Browser Use  9. Crawl4AI  10. Firecrawl  11. SearXNG  12. Mem0  13. Open WebUI  14. LlamaIndex
-15. Docling  16. ERPNext  17. Chatwoot  18. Mautic  19. n8n  20. PostgreSQL  21. MinIO  22. Grafana
-23. Keycloak  24. Docker  25. Coolify
+1. OpenCode  2. Hermes Agent  3. Agent-Reach  4. OpenHands  5. LangGraph  6. CrewAI  7. Dify
+8. Flowise  9. Browser Use  10. Crawl4AI  11. Firecrawl  12. SearXNG  13. Mem0  14. Open WebUI
+15. LlamaIndex  16. Docling  17. ERPNext  18. Chatwoot  19. Mautic  20. n8n  21. PostgreSQL
+22. MinIO  23. Grafana  24. Keycloak  25. Docker
 
 ## ⚠️ Treat cautiously (experimental / small / unmaintained)
 - `ringback`, `AIReceptionist`, `auto-company`, `swarmclaw`, `markus` (small) — fine for R&D, not core

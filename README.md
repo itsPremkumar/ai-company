@@ -34,7 +34,8 @@ Each department file contains:
 | MetaGPT | 69.3k | MIT | Whole "AI Software Company" in a box |
 | Microsoft AutoGen | 59.6k | CC-BY-4.0 | Multi-agent conversation/research |
 | LangGraph | 37k★ | MIT | Resilient production workflows |
-| OpenClaw ecosystem | 212k★(Hermes) | MIT | Agent templates + runtime (swarmclaw, mission-control) |
+| OpenClaw | 382k★ | MIT | #1 open-source personal AI assistant — 25+ channels, skills, memory, voice |
+| Hermes Agent | 212k★ | MIT | Reasoning/coding engine |
 | Paperclip Maximus | — | concept | ⚠️ Experimental self-improving agent — NOT production |
 
 ## Department files
@@ -59,11 +60,12 @@ Each department file contains:
 - `departments/00-core-intelligence.md` ← MEMORY + knowledge + search (the brain)
 - `departments/05b-web-crawling.md` ← Firecrawl / Crawl4AI / Browser Use / SearXNG
 - `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
-- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + AI company orchestration (Paperclip + OpenOPC)
+- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + AI company orchestration (OpenClaw + Paperclip + OpenOPC)
 - `departments/21-ecommerce.md` ← online store / digital sales (Medusa/Saleor)
 - `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `departments/23-products-catalog.md` ← 🛠 what the coding/product dept can BUILD & SELL
 - `departments/24-additional-departments.md` ← ➕ OSPO, BD, PR, Customer Success, DB Admin, Network, Procurement, Risk, Audit, Investor Rel, L&D, Accessibility, Incident Response
+- `departments/25-openclaw-ecosystem.md` ← 🐾 OpenClaw (382k★) + ClawHub skill registry + full org map
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map
 - `COMPULSORY_BASELINE.md` ← ⭐ THE DEFAULT 20-PROJECT SET every company must have
 - `MASTER_INDEX.md` ← 🗺 department ↔ project matrix (one-glance view)

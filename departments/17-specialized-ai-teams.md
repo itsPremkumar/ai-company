@@ -5,15 +5,16 @@
 ## Core agent frameworks (verified)
 | Framework | ★ | License | Best for | Link |
 |---|---|---|---|---|
+| **OpenClaw** | 382k | MIT | Personal AI assistant, skills system, 25+ comms channels | https://github.com/openclaw/openclaw |
 | **CrewAI** | 55.3k | MIT | Role-based company (CEO/CFO/CMO agents) | https://github.com/crewAIInc/crewAI |
 | **OpenHands** | 80.3k | Open | Autonomous software engineering | https://github.com/OpenHands/OpenHands |
 | **MetaGPT** | 69.3k | MIT | Whole "AI Software Company" in a box | https://github.com/FoundationAgents/MetaGPT |
 | **Microsoft AutoGen** | 59.6k | CC-BY-4.0 | Multi-agent conversation / research | https://github.com/microsoft/autogen |
 | **LangGraph** | 37k★ | MIT | Resilient production workflows | https://github.com/langchain-ai/langgraph |
-| **OpenClaw ecosystem** | 212k★(Hermes) | MIT | Agent templates + runtime | https://github.com/NousResearch/hermes-agent |
-| `GreenSheep01201/claw-empire` | 1.3k | Apache-2.0 | CEO Desk orchestration | https://github.com/GreenSheep01201/claw-empire |
+| **Hermes Agent** | 212k | MIT | Reasoning/coding engine | https://github.com/NousResearch/hermes-agent |
+| `GreenSheep01201/claw-empire` | 1.3k | Apache-2.0 | CEO Desk (not the same as OpenClaw) | https://github.com/GreenSheep01201/claw-empire |
 | `swarmclawai/swarmclaw` | 610★ | — | Self-hosted multi-agent runtime | https://github.com/swarmclawai/swarmclaw |
-| `mergisi/awesome-openclaw-agents` | 3.8k | — | 162 production agent templates | https://github.com/mergisi/awesome-openclaw-agents |
+| `mergisi/awesome-openclaw-agents` | 3.8k | MIT | 205 OpenClaw agent templates (SOUL.md) | https://github.com/mergisi/awesome-openclaw-agents |
 | `MervinPraison/PraisonAI` | 8.4k | — | "Hire a 24/7 AI Workforce" | https://github.com/MervinPraison/PraisonAI |
 | `trycua/cua` | 19.5k | — | Computer-Use Agents (desktop ops) | https://github.com/trycua/cua |
 | `nanobrowser/nanobrowser` | 13.4k | — | AI web automation | https://github.com/nanobrowser/nanobrowser |
@@ -25,8 +26,9 @@
   repo. I found no canonical high-star implementation. Use only for R&D / Innovation Lab, never core ops.
 
 ## Recommended stack for THIS company
+- **Personal AI assistant:** OpenClaw (382k★) — 24/7 agent via WhatsApp/Telegram/Slack/Discord/iMessage
 - **Roles/Org:** CrewAI (maps to your 60-dept chart)
 - **Coding:** OpenHands + Hermes
 - **Reliability:** LangGraph
-- **Orchestration:** claw-empire / swarmclaw
+- **Orchestration:** Paperclip (agent company) + claw-empire / swarmclaw
 - **Glue:** automatisch / n8n

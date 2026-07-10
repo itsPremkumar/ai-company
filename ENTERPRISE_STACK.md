@@ -16,6 +16,7 @@
 - `pgvector/pgvector` ✅ 22.1k + `postgres/postgres` ✅ 21.4k — vector memory
 
 ## 🏢 AI Company Orchestration
+- `openclaw/openclaw` ✅ 382k (MIT) — #1 open-source personal AI assistant, 25+ comms channels (WhatsApp/Telegram/Discord/Slack/iMessage), skills system, voice, persistent memory, computer use
 - `paperclipai/paperclip` ✅ 73.3k (MIT) — open-source orchestration platform for managing teams of AI agents: org charts, budgets, goals, governance, ticketing, multi-company
 - `HKUDS/OpenOPC` ✅ 630 (MIT) — self-built/self-run/self-grown AI-native company framework with org chart, kanban, Office UI, employee hiring, and organizational memory
 
@@ -94,10 +95,10 @@
   `Inkscape`, **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
 
 ## ⭐ Top 25 "Must-Have" Core Stack
-1. Paperclip  2. OpenCode  3. Hermes Agent  4. Agent-Reach  5. OpenHands  6. LangGraph
-7. CrewAI  8. Dify  9. Flowise  10. Browser Use  11. Crawl4AI  12. Firecrawl  13. SearXNG
-14. Mem0  15. Open WebUI  16. LlamaIndex  17. Docling  18. ERPNext  19. Chatwoot  20. Mautic
-21. n8n  22. PostgreSQL  23. MinIO  24. Grafana  25. Keycloak
+1. OpenClaw  2. Paperclip  3. OpenCode  4. Hermes Agent  5. Agent-Reach  6. OpenHands
+7. LangGraph  8. CrewAI  9. Dify  10. Flowise  11. Browser Use  12. Crawl4AI  13. Firecrawl
+14. SearXNG  15. Mem0  16. Open WebUI  17. LlamaIndex  18. Docling  19. ERPNext  20. Chatwoot
+21. Mautic  22. n8n  23. PostgreSQL  24. MinIO  25. Grafana
 
 ## ⚠️ Treat cautiously (experimental / small / unmaintained)
 - `ringback`, `AIReceptionist`, `auto-company`, `swarmclaw`, `markus` (small) — fine for R&D, not core

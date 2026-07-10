@@ -120,6 +120,7 @@ See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) 
 ## 🏢 AI Company Orchestration (meta-framework for running an AI-native company)
 | Project | ★ | License | Link | Role |
 |---|---|---|---|---|
+| `openclaw/openclaw` | 382k | MIT | https://github.com/openclaw/openclaw | #1 open-source personal AI assistant — "the AI employee" for Paperclip companies |
 | `paperclipai/paperclip` | 73.3k | MIT | https://github.com/paperclipai/paperclip | Orchestrate teams of AI agents: org charts, budgets, goals, governance, ticketing |
 | `HKUDS/OpenOPC` | 630 | MIT | https://github.com/HKUDS/OpenOPC | Self-built/self-run/self-grown AI company: org chart, kanban, roles, memory, Office UI |
 
@@ -166,7 +167,7 @@ Your core stack covered research/coding/voice/CRM/finance. These fill the **rema
 - **Password manager** (Vaultwarden) — self-hosted Bitwarden
 - **File sync** (Nextcloud) — document collaboration
 - **Community** (Discourse) — customer support forum
-- **AI company orchestration** (Paperclip 73.3k★ + OpenOPC) — run the whole blueprint as real software
+- **AI company orchestration** (OpenClaw 382k★ employee + Paperclip 73.3k★ company + OpenOPC framework) — run the whole blueprint as real software
 - **AI workspace** (Odysseus) — all-in-one self-hosted AI workspace
 - **Lightweight agent** (NanoBot) — personal AI agent runtime, MIT
 - **Deep research** (Onyx) — #1 on DeepResearch Bench, open-source

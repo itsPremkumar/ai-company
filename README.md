@@ -61,5 +61,6 @@ Each department file contains:
 - `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
 - `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps
 - `departments/21-ecommerce.md` ← online store / digital sales
+- `departments/20-gap-fillers.md` also covers: AI Company Orchestration (OpenOPC)
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map
 - `COMPULSORY_BASELINE.md` ← ⭐ THE DEFAULT 20-PROJECT SET every company must have

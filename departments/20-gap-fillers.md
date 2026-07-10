@@ -117,6 +117,11 @@
 ## 🛍 E-Commerce (online store / digital sales)
 See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) is the top pick.
 
+## 🏢 AI Company Orchestration (meta-framework for running an AI-native company)
+| Project | ★ | License | Link | Role |
+|---|---|---|---|---|
+| `HKUDS/OpenOPC` | 630 | MIT | https://github.com/HKUDS/OpenOPC | Self-built/self-run/self-grown AI company: org chart, kanban, roles, memory, Office UI |
+
 ## 🚀 Trending AI Workspaces & Agents (2026)
 | Project | ★ | License | Link | Role |
 |---|---|---|---|---|
@@ -140,6 +145,7 @@ Your core stack covered research/coding/voice/CRM/finance. These fill the **rema
 - **Password manager** (Vaultwarden) — self-hosted Bitwarden
 - **File sync** (Nextcloud) — document collaboration
 - **Community** (Discourse) — customer support forum
+- **AI company orchestration** (OpenOPC) — run the whole blueprint as real software
 - **AI workspace** (Odysseus) — all-in-one self-hosted AI workspace
 - **Lightweight agent** (NanoBot) — personal AI agent runtime, MIT
 - **Deep research** (Onyx) — #1 on DeepResearch Bench, open-source

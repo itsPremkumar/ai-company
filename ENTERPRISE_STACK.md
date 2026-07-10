@@ -15,6 +15,9 @@
 - `docling-project/docling` ✅ 62.9k — document parsing
 - `pgvector/pgvector` ✅ 22.1k + `postgres/postgres` ✅ 21.4k — vector memory
 
+## 🏢 AI Company Orchestration
+- `HKUDS/OpenOPC` ✅ 630 (MIT) — self-built/self-run/self-grown AI-native company framework with org chart, kanban, Office UI, employee hiring, and organizational memory
+
 ## 🎯 Executive / CEO
 - Hermes Agent + `markus-global/markus` (166★) + `GreenSheep01201/claw-empire` ✅ 1.3k (Apache-2.0)
 

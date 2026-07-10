@@ -59,7 +59,7 @@ Each department file contains:
 - `departments/00-core-intelligence.md` ← MEMORY + knowledge + search (the brain)
 - `departments/05b-web-crawling.md` ← Firecrawl / Crawl4AI / Browser Use / SearXNG
 - `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
-- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + OpenOPC
+- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + AI company orchestration (Paperclip + OpenOPC)
 - `departments/21-ecommerce.md` ← online store / digital sales (Medusa/Saleor)
 - `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `departments/23-products-catalog.md` ← 🛠 what the coding/product dept can BUILD & SELL

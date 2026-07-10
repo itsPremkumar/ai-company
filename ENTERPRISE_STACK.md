@@ -16,6 +16,7 @@
 - `pgvector/pgvector` ✅ 22.1k + `postgres/postgres` ✅ 21.4k — vector memory
 
 ## 🏢 AI Company Orchestration
+- `paperclipai/paperclip` ✅ 73.3k (MIT) — open-source orchestration platform for managing teams of AI agents: org charts, budgets, goals, governance, ticketing, multi-company
 - `HKUDS/OpenOPC` ✅ 630 (MIT) — self-built/self-run/self-grown AI-native company framework with org chart, kanban, Office UI, employee hiring, and organizational memory
 
 ## 🎯 Executive / CEO
@@ -93,12 +94,12 @@
   `Inkscape`, **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
 
 ## ⭐ Top 25 "Must-Have" Core Stack
-1. OpenCode  2. Hermes Agent  3. Agent-Reach  4. OpenHands  5. LangGraph  6. CrewAI  7. Dify
-8. Flowise  9. Browser Use  10. Crawl4AI  11. Firecrawl  12. SearXNG  13. Mem0  14. Open WebUI
-15. LlamaIndex  16. Docling  17. ERPNext  18. Chatwoot  19. Mautic  20. n8n  21. PostgreSQL
-22. MinIO  23. Grafana  24. Keycloak  25. Docker
+1. Paperclip  2. OpenCode  3. Hermes Agent  4. Agent-Reach  5. OpenHands  6. LangGraph
+7. CrewAI  8. Dify  9. Flowise  10. Browser Use  11. Crawl4AI  12. Firecrawl  13. SearXNG
+14. Mem0  15. Open WebUI  16. LlamaIndex  17. Docling  18. ERPNext  19. Chatwoot  20. Mautic
+21. n8n  22. PostgreSQL  23. MinIO  24. Grafana  25. Keycloak
 
 ## ⚠️ Treat cautiously (experimental / small / unmaintained)
 - `ringback`, `AIReceptionist`, `auto-company`, `swarmclaw`, `markus` (small) — fine for R&D, not core
-- **Paperclip Maximus** — concept only, no production repo
+- **Paperclip Maximus** (not `paperclipai/paperclip`) — alignment-theory concept, no production repo
 - Always check: maintenance activity, docs, issue backlog, community size before production reliance

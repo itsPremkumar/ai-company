@@ -64,3 +64,5 @@ Each department file contains:
 - `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map
 - `COMPULSORY_BASELINE.md` ← ⭐ THE DEFAULT 20-PROJECT SET every company must have
+- `MASTER_INDEX.md` ← 🗺 department ↔ project matrix (one-glance view)
+- `QUICKSTART.md` ← 🚀 concrete first steps (7-agent MVP → expand)

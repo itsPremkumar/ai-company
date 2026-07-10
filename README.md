@@ -59,4 +59,5 @@ Each department file contains:
 - `departments/00-core-intelligence.md` ← MEMORY + knowledge + search (the brain)
 - `departments/05b-web-crawling.md` ← Firecrawl / Crawl4AI / Browser Use / SearXNG
 - `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
+- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map

@@ -22,8 +22,9 @@
 - Agent-Reach, `unclecode/crawl4ai` ✅, `firecrawl/firecrawl` ✅ 148.8k (AGPL), `searxng/searxng` ✅
 
 ## 💻 Software Engineering
-- `All-Hands-AI/OpenHands` ✅ 80.3k, `paul-gauthier/aider` (canonical), `RooVetGit/Roo-Code` (canonical),
-  `continuedev/continue` (canonical), **Hermes**
+- `All-Hands-AI/OpenHands` ✅ 80.3k, `TabbyML/tabby` ✅ 33.7k (Apache-2.0),
+  `QwenLM/qwen-code` ✅ 25.9k (Apache-2.0), `paul-gauthier/aider` (canonical),
+  `RooVetGit/Roo-Code` (canonical), `continuedev/continue` (canonical), **Hermes**
 
 ## 🤖 Multi-Agent Orchestration
 - `crewAIInc/crewAI` ✅ 55.3k, `langchain-ai/langgraph` ✅ 37k, `microsoft/autogen` ✅ 59.6k,

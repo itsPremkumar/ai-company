@@ -117,6 +117,13 @@
 ## 🛍 E-Commerce (online store / digital sales)
 See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) is the top pick.
 
+## 🚀 Trending AI Workspaces & Agents (2026)
+| Project | ★ | License | Link | Role |
+|---|---|---|---|---|
+| `pewdiepie-archdaemon/odysseus` | 82.1k | AGPL-3.0 | https://github.com/pewdiepie-archdaemon/odysseus | Self-hosted AI workspace: chat, agents, research, docs, email, notes, calendar |
+| `HKUDS/nanobot` | 45.2k | MIT | https://github.com/HKUDS/nanobot | Ultra-lightweight personal AI agent runtime |
+| `onyx-dot-app/onyx` | 30.8k | MIT | https://github.com/onyx-dot-app/onyx | #1 DeepResearch Bench, open-source AI platform with RAG |
+
 ## 🎯 Why these matter
 Your core stack covered research/coding/voice/CRM/finance. These fill the **remaining real gaps**:
 - **Legal signing** (Documenso) — contracts are unavoidable in business
@@ -133,5 +140,8 @@ Your core stack covered research/coding/voice/CRM/finance. These fill the **rema
 - **Password manager** (Vaultwarden) — self-hosted Bitwarden
 - **File sync** (Nextcloud) — document collaboration
 - **Community** (Discourse) — customer support forum
+- **AI workspace** (Odysseus) — all-in-one self-hosted AI workspace
+- **Lightweight agent** (NanoBot) — personal AI agent runtime, MIT
+- **Deep research** (Onyx) — #1 on DeepResearch Bench, open-source
 
 ➡️ Add the ones matching your actual needs; don't deploy all 50 at once.

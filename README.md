@@ -59,8 +59,8 @@ Each department file contains:
 - `departments/00-core-intelligence.md` ← MEMORY + knowledge + search (the brain)
 - `departments/05b-web-crawling.md` ← Firecrawl / Crawl4AI / Browser Use / SearXNG
 - `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
-- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps
-- `departments/21-ecommerce.md` ← online store / digital sales
-- `departments/20-gap-fillers.md` also covers: AI Company Orchestration (OpenOPC)
+- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + OpenOPC (run blueprint as software)
+- `departments/21-ecommerce.md` ← online store / digital sales (Medusa/Saleor)
+- `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `ENTERPRISE_STACK.md` ← consolidated 100% open-source enterprise map
 - `COMPULSORY_BASELINE.md` ← ⭐ THE DEFAULT 20-PROJECT SET every company must have

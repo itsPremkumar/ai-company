@@ -14,6 +14,8 @@
 - `unclecode/crawl4ai` ✅ 72.2k — web crawling
 - `docling-project/docling` ✅ 62.9k — document parsing
 - `pgvector/pgvector` ✅ 22.1k + `postgres/postgres` ✅ 21.4k — vector memory
+- `HKUDS/LightRAG` ✅ 37.5k (MIT) — simple fast RAG framework
+- `HKUDS/RAG-Anything` ✅ 22.1k (MIT) — all-in-one RAG framework
 
 ## 🏢 AI Company Orchestration
 - `openclaw/openclaw` ✅ 382k (MIT) — #1 open-source personal AI assistant, 25+ comms channels (WhatsApp/Telegram/Discord/Slack/iMessage), skills system, voice, persistent memory, computer use
@@ -31,6 +33,8 @@
   `TabbyML/tabby` ✅ 33.7k (Apache-2.0), `QwenLM/qwen-code` ✅ 25.9k (Apache-2.0),
   `paul-gauthier/aider` (canonical), `RooVetGit/Roo-Code` (canonical),
   `continuedev/continue` (canonical), **Hermes**
+- `HKUDS/CLI-Anything` ✅ 45.1k (Apache-2.0) — makes all software agent-native via CLI
+- `HKUDS/DeepCode` ✅ 16k (MIT) — open agentic coding (Paper2Code, Text2Web, Text2Backend)
 - `usebruno/bruno` ✅ 45.4k (MIT) — git-native API client (Postman alt)
 - `grafana/k6` (AGPL-3.0) — load testing, CI/CD-native
 

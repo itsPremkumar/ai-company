@@ -6,11 +6,11 @@
 
 | # | Department | Primary Project(s) | Role in company |
 |---|---|---|---|
-| 00 | Core Intelligence (brain) | Mem0, Graphiti, pgvector, Open WebUI, Docling, SearXNG | Memory + knowledge + search |
+| 00 | Core Intelligence (brain) | Mem0, Graphiti, pgvector, Open WebUI, Docling, SearXNG, LightRAG, RAG-Anything | Memory + knowledge + search + RAG |
 | 01 | Executive / CEO | Hermes + Markus + claw-empire | Vision, strategy, decisions |
 | 02 | Operations (COO) | auto-company, automatisch | Daily loop, automation |
 | 03 | Product / PMO | superplane, CrewAI | Roadmap, delivery tracking |
-| 04 | Engineering | OpenHands, MetaGPT, Hermes | Build backend/front/web |
+| 04 | Engineering | OpenHands, MetaGPT, Hermes, CLI-Anything, DeepCode | Build backend/front/web |
 | 05 | Research | Agent-Reach, maxun | Market + web intelligence |
 | 05b | Web Crawling | Firecrawl, Crawl4AI, Browser Use | AI-native crawling |
 | 06 | AI/ML & Data Sci | MLflow, vLLM, Ray, CogVideoX, LangGraph | Models, MLOps, inference |

@@ -14,6 +14,8 @@
 | `superplanehq/superplane` | 3.8k | — | https://github.com/superplanehq/superplane (dev control plane) |
 | **Hermes (this agent)** | 212k★ | — | https://github.com/NousResearch/hermes-agent (coding engine) |
 | `microsoft/autogen` | 59.6k | CC-BY-4.0 | https://github.com/microsoft/autogen |
+| `HKUDS/CLI-Anything` | 45.1k | Apache-2.0 | https://github.com/HKUDS/CLI-Anything | Makes any software agent-native via CLI |
+| `HKUDS/DeepCode` | 16k | MIT | https://github.com/HKUDS/DeepCode | Open agentic coding (Paper2Code, Text2Web) |
 
 ## Why
 OpenCode (184k★) is the #1 open-source terminal coding agent with 75+ model providers and MCP

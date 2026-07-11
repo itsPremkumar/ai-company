@@ -20,6 +20,8 @@ portal, private search, document parsing, vector store.
 | ` AnythingLLM` | — | MIT | https://github.com/Mintplex-Labs/anything-llm | Company knowledge base |
 | `run-llama/llama_index` | — | MIT | https://github.com/run-llama/llama_index | RAG indexing |
 | `deepset-ai/haystack` | — | Apache-2.0 | https://github.com/deepset-ai/haystack | Enterprise RAG |
+| `HKUDS/LightRAG` | 37.5k | MIT | https://github.com/HKUDS/LightRAG | Simple fast RAG (EMNLP2025) |
+| `HKUDS/RAG-Anything` | 22.1k | MIT | https://github.com/HKUDS/RAG-Anything | All-in-one RAG framework |
 
 ## Private Search
 | Project | ★ | License | Link |

@@ -15,6 +15,7 @@
 | Project | ★ | License | Link | Role |
 |---|---|---|---|---|
 | `BerriAI/litellm` | 20k | MIT | https://github.com/BerriAI/litellm | OpenAI-proxy for 100+ LLMs, routing, fallbacks, spend tracking |
+| `diegosouzapw/OmniRoute` | 15.1k | MIT | https://github.com/diegosouzapw/OmniRoute | 237 providers (90+ free), 17 routing strategies, RTK+Caveman token compression, MCP/A2A, auto-fallback |
 
 ## Agent Frameworks & Model Workflows
 | Project | ★ | License | Link |
@@ -27,8 +28,9 @@
 
 ## Why
 MLflow is the missing brain of the AI company — experiment tracking, model registry, LLM observability, AI gateway.
-vLLM serves models at production scale (85.9k★). Ray distributes compute. LiteLLM routes across providers.
+vLLM serves models at production scale (85.9k★). Ray distributes compute. LiteLLM routes across 100+ providers.
+OmniRoute adds 237 providers (90+ free), 17 routing strategies, and token compression — maximum uptime, minimum cost.
 LangGraph builds resilient AI workflows. CogVideoX generates B-roll; Qwen-Omni does multimodal generation.
 
 ## Integration
-AI ML Engineer tracks experiments in MLflow → serves models via vLLM/BentoML → manages data via DVC → routes via LiteLLM → LangGraph orchestrates → CogVideoX feeds Video dept.
+AI ML Engineer tracks experiments in MLflow → serves models via vLLM/BentoML → manages data via DVC → routes via OmniRoute (237 providers, auto-fallback, compression) → LangGraph orchestrates → CogVideoX feeds Video dept.

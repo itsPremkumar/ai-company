@@ -13,7 +13,7 @@
 | 04 | Engineering | OpenHands, MetaGPT, Hermes, CLI-Anything, DeepCode | Build backend/front/web |
 | 05 | Research | Agent-Reach, maxun | Market + web intelligence |
 | 05b | Web Crawling | Firecrawl, Crawl4AI, Browser Use | AI-native crawling |
-| 06 | AI/ML & Data Sci | MLflow, vLLM, Ray, CogVideoX, LangGraph | Models, MLOps, inference |
+| 06 | AI/ML & Data Sci | MLflow, vLLM, Ray, CogVideoX, LangGraph, LiteLLM, OmniRoute | Models, MLOps, inference, LLM gateway |
 | 07 | Design | Excalidraw, Penpot, Storybook, Blender | UI/UX, diagrams, 3D |
 | 08 | DevOps/Cloud/Sec | grafana, SigNoz, langfuse, Wazuh | CI/CD, reliability, security |
 | 09 | QA / Tech Writing | Hermes, OpenHands, langfuse | Testing, docs |

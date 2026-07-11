@@ -47,6 +47,7 @@
 - `vllm-project/vllm` ✅ 85.9k (Apache-2.0) — high-throughput LLM inference + serving
 - `ray-project/ray` ✅ 42.2k (Apache-2.0) — distributed AI compute engine
 - `BerriAI/litellm` ✅ 20k (MIT) — OpenAI-proxy for 100+ LLMs, routing, fallbacks
+- `diegosouzapw/OmniRoute` ✅ 15.1k (MIT) — 237 providers (90+ free), 17 routing strategies, RTK+Caveman token compression (15-95%), MCP/A2A, auto-fallback
 - `iterative/dvc` ✅ 14k (Apache-2.0) — data version control for ML
 - `bentoml/BentoML` (canonical) — Python-native model serving
 

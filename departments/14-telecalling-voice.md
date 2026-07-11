@@ -11,11 +11,14 @@
 | `kirklandsig/AIReceptionist` | 57★ | — | https://github.com/kirklandsig/AIReceptionist (AI phone receptionist) |
 | `mohitbadwal/ringback` | 16★ | — | https://github.com/mohitbadwal/ringback (MCP: AI calls your phone) |
 | FreeSWITCH / Asterisk | — | open | PBX backbone for scale |
+| `livekit/agents` | (canonical) | Apache-2.0 | https://github.com/livekit/agents | LiveKit AI agent framework (voice/video/data) |
+| `vocodedev/vocode-core` | (canonical) | MIT | https://github.com/vocodedev/vocode-core | Voice AI agent framework (phone calls, voice bots) |
 
 ## Why
 **dograh** is the key tool — open self-hosted voice AI platform (Vapi/Retell alternative), handles
-inbound/outbound calls. Chatterbox-TTS for voice synthesis. ringback lets the AI agent call YOU.
+inbound/outbound calls. **LiveKit Agents** adds multi-modal voice/video AI pipelines. **Vocode** handles
+programmatic phone bots. Chatterbox-TTS for voice synthesis. ringback lets the AI agent call YOU.
 FreeSWITCH/Asterisk = open PBX for volume.
 
 ## Integration
-AI Telecaller (dograh) → outbound lead calls → logs to NocoBase CRM → escalates to human via ringback.
+AI Telecaller (dograh / LiveKit Agents / Vocode) → outbound lead calls → logs to NocoBase CRM → escalates to human via ringback.

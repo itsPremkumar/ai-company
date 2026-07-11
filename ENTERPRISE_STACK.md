@@ -69,7 +69,8 @@
 - `mautic/mautic` ✅ 10.1k, `knadh/listmonk` ✅ 22k (AGPL), Agent-Reach, `matic-framework/ComfyUI`
 
 ## 📞 Voice / Telecalling
-- `pipecat-ai/pipecat` ✅ 13.3k, `livekit/livekit` ✅ 19.7k, `asterisk/asterisk` (canonical),
+- `pipecat-ai/pipecat` ✅ 13.3k, `livekit/livekit` ✅ 19.7k, `livekit/agents` (canonical),
+  `vocodedev/vocode-core` (canonical), `asterisk/asterisk` (canonical),
   `signalwire/freeswitch` (canonical), `openai/whisper` ✅ 104.7k (STT), `rhasspy/piper` ✅ 11.2k (TTS)
 
 ## 💼 CRM / ERP / Finance
@@ -92,6 +93,44 @@
 
 ## 💬 Internal Communication
 - `mattermost/mattermost` ✅ 38.3k (MIT) — self-hosted Slack alternative with AI integration
+- `lobehub/lobe-chat` (canonical) — modern AI chat UI framework, plugin system, multi-provider
+
+## 🔌 MCP Registry / Tools
+- `smithery-ai/smithery` (canonical) — MCP registry, discovery, and deployment hub
+- `modelcontextprotocol/servers` (canonical) — official MCP server implementations
+- `punkpeye/awesome-mcp-servers` (canonical) — curated list of MCP servers
+
+## 🔍 Research Agents
+- `assafelovic/gpt-researcher` (canonical) — autonomous research agent, web reports
+- `stanford-oval/storm` (canonical) — Stanford AI research assistant
+
+## 🖥️ Computer Use Agents
+- `microsoft/OmniParser` (canonical) — screen parsing for computer-use agents
+- `showlab/computer_use_ootb` (canonical) — computer use out of the box
+
+## 🤝 Multi-Agent Frameworks
+- `huggingface/smolagents` (canonical) — lightweight HuggingFace agent framework
+- `OpenBMB/AgentVerse` (canonical) — multi-agent task-solving
+- `OpenBMB/ChatDev` (canonical) — AI software company simulator
+- `camel-ai/camel` (canonical) — multi-agent research
+
+## 🔎 AI Search Engines
+- `developersdigest/llm-answer-engine` (canonical) — LLM-powered answer engine
+- `ItzCrazyKns/Perplexica` (canonical) — Perplexity AI alternative
+
+## 🎨 Image Generation (UI)
+- `lllyasviel/Fooocus` (canonical) — image generation UI (SD alt)
+- `AUTOMATIC1111/stable-diffusion-webui` (canonical) — Stable Diffusion web UI
+
+## 💻 Local AI Desktop
+- `janhq/jan` (canonical) — local AI assistant desktop app
+- `oobabooga/text-generation-webui` (canonical) — LLM chat UI
+
+## 📈 Financial Analysis
+- `openbb-finance/OpenBB` (canonical) — open-source financial analysis platform
+
+## 📄 Data Conversion
+- `microsoft/markitdown` (canonical) — convert Office/PDF/images to Markdown for LLM
 
 ## 📋 Feature Management
 - `Unleash/unleash` ✅ 13.6k (AGPL-3.0) — feature flags, gradual rollouts, A/B testing
@@ -126,6 +165,14 @@
 - `excalidraw/excalidraw` ✅ 126.6k (MIT), `matic-framework/ComfyUI` (images+video),
   `Penpot/penpot` (UI), `blender/blender`, `GIMP`, `Inkscape`,
   **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
+
+## 🗄 Backend / BaaS
+- `supabase/supabase` (canonical) — open-source Firebase: Postgres, auth, realtime, storage
+- `pocketbase/pocketbase` (canonical) — lightweight Go backend with embedded DB, file storage, auth
+
+## 👁 Computer Vision
+- `ultralytics/ultralytics` (canonical) — YOLO vision AI: detection, segmentation, tracking
+- `facebookresearch/sam2` (canonical) — Segment Anything 2: promptable image/video segmentation
 
 ## ⭐ Top 25 "Must-Have" Core Stack
 1. OpenClaw  2. Paperclip  3. OpenCode  4. Hermes Agent  5. Agent-Reach  6. OpenHands

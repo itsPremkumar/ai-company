@@ -21,22 +21,30 @@
 | 11 | Marketing | Mautic, Agent-Reach, Video-Gen | Brand, content, social |
 | 12 | Sales / CRM | NocoBase, Agent-Reach, Peppermint | Leads, CRM |
 | 13 | Customer Support | Peppermint, Sharkord, Hermes | Help desk |
-| 14 | Telecalling / Voice | dograh, Chatterbox-TTS, ringback | AI voice, calls |
+| 14 | Telecalling / Voice | dograh, LiveKit Agents, Vocode, Chatterbox-TTS, ringback | AI voice, calls |
 | 15 | HR / Legal | OpenCATS, DocAssemble | Hiring, contracts |
 | 16 | Finance | ERPNext, Odoo, InvoicePlane | Accounting, payroll |
 | 17 | Specialized AI Teams | CrewAI, OpenHands, MetaGPT, LangGraph, OpenClaw | Agent frameworks |
 | 18 | Video Generation | **your Automated-Video-Generator** + CogVideoX | Product #1 |
 | 19 | Infrastructure | Keycloak, Infisical, Coolify, MinIO, Grafana, Prometheus, FreeDomain | Backbone + DNS |
-| 20 | Gap-Fillers | Documenso, LibreTranslate, cal.com, Postal, AgentOps, OpenAdapt | Missing functions |
+| 20 | Gap-Fillers | Documenso, LibreTranslate, cal.com, Postal, AgentOps, OpenAdapt, Supabase, PocketBase, LobeChat, Smithery, Activepieces, AppFlowy, Ultralytics, gpt-researcher, Perplexica, OpenBB, Fooocus, Jan, langflow, Swarm, PydanticAI, Stagehand, Cognee, OpenMemory, InvokeAI, Cline | Missing functions |
 | 21 | E-Commerce | Medusa, Saleor, Vendure | Online store |
 | 22 | Self-Evolving Core | **Hermes (main)** + Mem0 + Graphiti + AgentZero | The improving brain |
 
 ## Cross-cutting frameworks (used by many departments)
 - **Orchestration:** CrewAI, LangGraph, AutoGen, claw-empire, Markus
 - **Memory:** Mem0, Graphiti, pgvector
-- **Automation:** n8n, Flowise, Dify
-- **Research:** Agent-Reach, Crawl4AI, Firecrawl, SearXNG, Browser Use
+- **Automation:** n8n, Flowise, Dify, Activepieces
+- **Research / Crawling:** Agent-Reach, Crawl4AI, Firecrawl, SearXNG, Browser Use, gpt-researcher, STORM
 - **Infra:** Docker, Coolify, Keycloak, Infisical, MinIO, Grafana, Prometheus, Loki
+- **Backend BaaS:** Supabase, PocketBase
+- **MCP:** Smithery, modelcontextprotocol/servers
+- **Computer Vision:** Ultralytics, SAM2
+- **Multi-Agent Frameworks:** smolagents, AgentVerse, ChatDev, CAMEL
+- **AI Search:** Perplexica, LLM Answer Engine
+- **Computer Use:** OmniParser, computer_use_ootb
+- **Image Gen:** Fooocus, Stable Diffusion WebUI
+- **Finance:** OpenBB
 
 ## Compulsory set (every company)
 → see `COMPULSORY_BASELINE.md` (the default 20-project stack).

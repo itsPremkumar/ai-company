@@ -15,7 +15,7 @@
 ## 🗄 Vector Databases (memory alternatives)
 | Project | ✦ | License | Link |
 |---|---|---|---|
-| `chromastore/chromadb` | (canonical) | Apache-2.0 | https://github.com/chromastore/chromadb |
+| `chroma-core/chroma` | (canonical) | Apache-2.0 | https://github.com/chroma-core/chroma |
 | `qdrant/qdrant` | (canonical) | Apache-2.0 | https://github.com/qdrant/qdrant |
 | `weaviate/weaviate` | (canonical) | BSD-3 | https://github.com/weaviate/weaviate |
 | `redis/redis` | (canonical) | Redis License | https://github.com/redis/redis |
@@ -74,7 +74,7 @@
 | Project | ✦ | License | Link | Role |
 |---|---|---|---|---|
 | `ollama/ollama` | (canonical) | MIT | https://github.com/ollama/ollama | Local LLM runtime |
-| `ggml-ai/vllm` | (canonical) | Apache-2.0 | https://github.com/ggml-ai/vllm | High-throughput inference |
+| `vllm-project/vllm` | 85.9k | Apache-2.0 | https://github.com/vllm-project/vllm | High-throughput LLM inference + serving |
 | `ggml-ai/llama.cpp` | (canonical) | MIT | https://github.com/ggml-ai/llama.cpp | LLM inference in C++ |
 
 ## 🔍 Search Engine (internal docs, products, site search)
@@ -139,6 +139,26 @@ See `21-ecommerce.md` for the dedicated department file. Medusa (35.1k★, MIT) 
 |---|---|---|---|---|
 | `formbricks/formbricks` | 13k | AGPL-3.0 | https://github.com/formbricks/formbricks | Privacy-first survey platform (Qualtrics alternative), in-app/email/link surveys, MCP support |
 
+## 📄 PDF Manipulation & Generation
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `Stirling-Tools/Stirling-PDF` | 84.9k | Open Core | https://github.com/Stirling-Tools/Stirling-PDF | #1 PDF app on GitHub — merge, split, sign, OCR, convert, 50+ tools, self-hosted |
+
+## 📋 Form Builder (general forms, beyond surveys)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `heyform/heyform` | 8.8k | AGPL-3.0 | https://github.com/heyform/heyform | Open-source conversational form builder (Typeform alt) |
+
+## 🖼 Digital Asset Management (DAM)
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `pimcore/pimcore` | 3.8k | POCL | https://github.com/pimcore/pimcore | DAM + PIM + CMS + Digital Commerce platform |
+
+## 🎨 Visual Regression Testing
+| Project | ✦ | License | Link | Role |
+|---|---|---|---|---|
+| `lost-pixel/lost-pixel` | — | MIT | https://github.com/lost-pixel/lost-pixel | Visual regression for Storybook, Ladle, Next.js |
+
 ## 🚀 Trending AI Workspaces & Agents (2026)
 | Project | ★ | License | Link | Role |
 |---|---|---|---|---|
@@ -170,6 +190,10 @@ Your core stack covered research/coding/voice/CRM/finance. These fill the **rema
 - **AI company orchestration** (OpenClaw 382k★ employee + Paperclip 73.3k★ company + OpenOPC framework) — run the whole blueprint as real software
 - **AI workspace** (Odysseus) — all-in-one self-hosted AI workspace
 - **Lightweight agent** (NanoBot) — personal AI agent runtime, MIT
+- **PDF manipulation** (Stirling-PDF 84.9k★) — merge/sign/convert/OCR PDFs, self-hosted
+- **Form builder** (HeyForm) — conversational forms beyond surveys
+- **Digital asset management** (Pimcore) — DAM for brand assets, videos, images
+- **Visual regression** (Lost Pixel) — catch UI drift before deploy
 - **Deep research** (Onyx) — #1 on DeepResearch Bench, open-source
 
 ➡️ Add the ones matching your actual needs; don't deploy all 50 at once.

@@ -31,10 +31,20 @@
   `TabbyML/tabby` ✅ 33.7k (Apache-2.0), `QwenLM/qwen-code` ✅ 25.9k (Apache-2.0),
   `paul-gauthier/aider` (canonical), `RooVetGit/Roo-Code` (canonical),
   `continuedev/continue` (canonical), **Hermes**
+- `usebruno/bruno` ✅ 45.4k (MIT) — git-native API client (Postman alt)
+- `grafana/k6` (AGPL-3.0) — load testing, CI/CD-native
 
 ## 🤖 Multi-Agent Orchestration
 - `crewAIInc/crewAI` ✅ 55.3k, `langchain-ai/langgraph` ✅ 37k, `microsoft/autogen` ✅ 59.6k,
   `FoundationAgents/MetaGPT` ✅ 69.3k, `Agno-AGI/agno` ✅ 41.1k, claw-empire
+
+## 🧪 MLOps / AI Infrastructure
+- `mlflow/mlflow` ✅ 26.7k (Apache-2.0) — experiment tracking, model registry, LLM observability
+- `vllm-project/vllm` ✅ 85.9k (Apache-2.0) — high-throughput LLM inference + serving
+- `ray-project/ray` ✅ 42.2k (Apache-2.0) — distributed AI compute engine
+- `BerriAI/litellm` ✅ 20k (MIT) — OpenAI-proxy for 100+ LLMs, routing, fallbacks
+- `iterative/dvc` ✅ 14k (Apache-2.0) — data version control for ML
+- `bentoml/BentoML` (canonical) — Python-native model serving
 
 ## 🔄 Workflow Automation
 - `n8n-io/n8n` ✅ 195.9k, `FlowiseAI/Flowise` ✅ 54.5k, `langgenius/dify` ✅ 148.4k,
@@ -44,9 +54,11 @@
 - `browser-use/browser-use` ✅ 104.1k, `microsoft/playwright` (canonical), `SeleniumHQ/selenium`
 
 ## 📊 Data / BI / Analytics
-- `airbytehq/airbyte` ✅ 21.5k (MIT), `grafana/grafana` ✅ 75.5k, `metabase/metabase` ✅ 48.1k,
-  `apache/superset` (canonical), `matomo-org/matomo` (canonical), `plausible/plausible` (canonical),
-  `duckdb/duckdb` (canonical)
+- `airbytehq/airbyte` ✅ 21.5k (MIT), `dagster-io/dagster` ✅ 14k (Apache-2.0),
+  `great-expectations/great_expectations` ✅ 11.6k (Apache-2.0),
+  `datahub-project/datahub` ✅ 14k (Apache-2.0), `grafana/grafana` ✅ 75.5k,
+  `metabase/metabase` ✅ 48.1k, `apache/superset` (canonical), `matomo-org/matomo` (canonical),
+  `plausible/plausible` (canonical), `duckdb/duckdb` (canonical)
 
 ## 📣 Marketing / Email
 - `mautic/mautic` ✅ 10.1k, `knadh/listmonk` ✅ 22k (AGPL), Agent-Reach, `matic-framework/ComfyUI`
@@ -57,7 +69,8 @@
 
 ## 💼 CRM / ERP / Finance
 - `frappe/erpnext` ✅ 36.7k (GPL), `odoo/odoo` ✅ 52.9k, `twentyhq/twenty` ✅ 52.7k,
-  `nocobase/nocobase` ✅ 23.3k, `InvoicePlane/InvoicePlane` ✅ 3.1k, `akaunting/akaunting` (canonical)
+  `nocobase/nocobase` ✅ 23.3k, `InvoicePlane/InvoicePlane` ✅ 3.1k, `akaunting/akaunting` (canonical),
+  `kimai/kimai` ✅ 4.8k (AGPL-3.0) — self-hosted time tracking + invoicing
 
 ## 💬 Customer Support
 - `chatwoot/chatwoot` ✅ 34.3k, `librechat-ai/librechat` (canonical), Open WebUI
@@ -68,7 +81,8 @@
 ## 🔒 Security / IAM / Infra
 - `keycloak/keycloak` ✅ 35.6k, `Infisical/infisical` ✅ 27.8k, `wazuh/wazuh`,
   `coollabsio/coolify` ✅ 58.2k, `minio/minio` ✅ 61.3k, Docker, Kubernetes, `grafana/loki`,
-  `prometheus/prometheus`, `Kong/kong`, `rabbitmq/rabbitmq`, `nats-io/nats-server`, `ntfy-org/ntfy`
+  `prometheus/prometheus`, `Kong/kong`, `rabbitmq/rabbitmq`, `nats-io/nats-server`, `ntfy-org/ntfy`,
+  `centrifugal/centrifugo` ✅ 10.4k (Apache-2.0) — self-hosted real-time WebSocket/pubsub
 
 ## 💬 Internal Communication
 - `mattermost/mattermost` ✅ 38.3k (MIT) — self-hosted Slack alternative with AI integration
@@ -82,6 +96,18 @@
 ## 💾 Backup & Disaster Recovery
 - `kopia/kopia` ✅ 13.3k (Apache-2.0) — encrypted, deduplicated backups with web UI
 
+## 📄 PDF Manipulation
+- `Stirling-Tools/Stirling-PDF` ✅ 84.9k — #1 PDF app, merge/sign/convert/OCR, self-hosted
+
+## 📋 Form Builder
+- `heyform/heyform` ✅ 8.8k (AGPL-3.0) — conversational form builder (Typeform alt)
+
+## 🖼 Digital Asset Management
+- `pimcore/pimcore` ✅ 3.8k — DAM + PIM + CMS + Digital Commerce
+
+## 🎨 Visual Regression Testing
+- `lost-pixel/lost-pixel` (MIT) — visual regression for Storybook/Next.js
+
 ## 📖 Docs / PM / VCS / CI
 - `facebook/docusaurus` (canonical), `squidfunk/mkdocs-material` (canonical), `outline/outline`,
   `getplane/plane` (canonical), `openproject/openproject`, `gitea/gitea` (canonical),
@@ -91,8 +117,9 @@
 - `medusajs/medusa` ✅ 35.1k (MIT), `saleor/saleor` (canonical), `vendure-ecommerce/vendure` (canonical)
 
 ## 🎨 Design / Media / Video
-- `matic-framework/ComfyUI` (images+video), `Penpot/penpot` (UI), `blender/blender`, `GIMP`,
-  `Inkscape`, **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
+- `excalidraw/excalidraw` ✅ 126.6k (MIT), `matic-framework/ComfyUI` (images+video),
+  `Penpot/penpot` (UI), `blender/blender`, `GIMP`, `Inkscape`,
+  **your `Automated-Video-Generator`** (faceless video), `sadtalker` (avatar)
 
 ## ⭐ Top 25 "Must-Have" Core Stack
 1. OpenClaw  2. Paperclip  3. OpenCode  4. Hermes Agent  5. Agent-Reach  6. OpenHands

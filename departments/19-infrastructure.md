@@ -33,6 +33,7 @@
 | `rabbitmq/rabbitmq` | https://github.com/rabbitmq/rabbitmq | Messaging |
 | `nats-io/nats-server` | https://github.com/nats-io/nats-server | Event bus |
 | `ntfy-org/ntfy` | https://github.com/ntfy-org/ntfy | Notifications |
+| `centrifugal/centrifugo` | https://github.com/centrifugal/centrifugo (10.4k★, Apache-2.0) | Self-hosted real-time WebSocket/pubsub (Pusher alt) |
 
 ## Security
 | Project | Link | Role |

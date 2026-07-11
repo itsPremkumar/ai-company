@@ -13,11 +13,11 @@
 | 04 | Engineering | OpenHands, MetaGPT, Hermes | Build backend/front/web |
 | 05 | Research | Agent-Reach, maxun | Market + web intelligence |
 | 05b | Web Crawling | Firecrawl, Crawl4AI, Browser Use | AI-native crawling |
-| 06 | AI/ML & Data Sci | CogVideoX, Qwen-Omni, LangGraph | Models, prediction |
-| 07 | Design | Penpot, Storybook, Blender | UI/UX, graphics, 3D |
+| 06 | AI/ML & Data Sci | MLflow, vLLM, Ray, CogVideoX, LangGraph | Models, MLOps, inference |
+| 07 | Design | Excalidraw, Penpot, Storybook, Blender | UI/UX, diagrams, 3D |
 | 08 | DevOps/Cloud/Sec | grafana, SigNoz, langfuse, Wazuh | CI/CD, reliability, security |
 | 09 | QA / Tech Writing | Hermes, OpenHands, langfuse | Testing, docs |
-| 10 | Data / BI | grafana, SigNoz | Dashboards, analytics |
+| 10 | Data / BI | Dagster, Great Expectations, DataHub, grafana | Pipelines, quality, catalog |
 | 11 | Marketing | Mautic, Agent-Reach, Video-Gen | Brand, content, social |
 | 12 | Sales / CRM | NocoBase, Agent-Reach, Peppermint | Leads, CRM |
 | 13 | Customer Support | Peppermint, Sharkord, Hermes | Help desk |

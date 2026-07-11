@@ -109,14 +109,15 @@ Detect intrusions / anomalies.
 
 ---
 
-## ✅ The "Must-Have 20" one-line summary
+## ✅ The "Must-Have 20 (+ MLOps)" one-line summary
 For **ANY company**, self-host these by default:
 **Keycloak, Infisical, PostgreSQL, MinIO, Docker+Coolify, Prometheus+Grafana+Loki, NATS,
 ERPNext, Postal+Listmonk, Outline+OpenWebUI, Mem0+pgvector, n8n, Hermes+CrewAI+LangGraph,
 Agent-Reach+SearXNG, Chatwoot, Matomo, Gitea+Forgejo, Plane, Wazuh.**
 
 For a **non-AI company**, drop #12, #14, #15 (memory/orchestration/research) — the other 17 are
-universal. For an **AI company**, keep all 20.
+universal. For an **AI company**, keep all 20. Then add **21. MLflow** (experiment tracking + model
+registry) and **22. vLLM** (self-hosted LLM serving) as the MLOps layer.
 
 ## ➕ Then add DOMAIN tools on top
 - Video company → your `Automated-Video-Generator` + ComfyUI

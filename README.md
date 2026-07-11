@@ -44,23 +44,23 @@ Each department file contains:
 - `departments/03-product-pmo.md`
 - `departments/04-engineering.md`
 - `departments/05-research.md`
-- `departments/06-ai-ml.md`
-- `departments/07-design.md`
+- `departments/06-ai-ml.md` ← +MLflow 26.7k★, vLLM 85.9k★, Ray 42.2k★, LiteLLM, DVC, BentoML
+- `departments/07-design.md` ← +Excalidraw 126.6k★ (#1 whiteboard)
 - `departments/08-devops-cloud.md`
-- `departments/09-qa-security.md`
-- `departments/10-data-bi.md`
+- `departments/09-qa-security.md` ← +Bruno 45.4k★ (API client), k6 (load testing)
+- `departments/10-data-bi.md` ← +Dagster 14k★, Great Expectations 11.6k★, DataHub 14k★
 - `departments/11-marketing.md`
 - `departments/12-sales-crm.md`
 - `departments/13-customer-support.md`
 - `departments/14-telecalling-voice.md`
 - `departments/15-hr-legal.md`
-- `departments/16-finance.md`
+- `departments/16-finance.md` ← +Kimai 4.8k★ (time tracking)
 - `departments/17-specialized-ai-teams.md`
 - `departments/18-video-generation.md` ← your project
 - `departments/00-core-intelligence.md` ← MEMORY + knowledge + search (the brain)
 - `departments/05b-web-crawling.md` ← Firecrawl / Crawl4AI / Browser Use / SearXNG
-- `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy
-- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + AI company orchestration (OpenClaw + Paperclip + OpenOPC)
+- `departments/19-infrastructure.md` ← IAM / secrets / observability / deploy / +Centrifugo 10.4k★ (realtime messaging)
+- `departments/20-gap-fillers.md` ← legal/eval/translation/scheduling/RPA/vec-DB gaps + internal chat (Mattermost) + feature flags (Unleash) + surveys (Formbricks) + PDF (Stirling-PDF 84.9k★) + forms (HeyForm) + DAM (Pimcore) + visual reg (Lost Pixel) + AI company orchestration (OpenClaw + Paperclip + OpenOPC)
 - `departments/21-ecommerce.md` ← online store / digital sales (Medusa/Saleor)
 - `departments/22-self-evolving-core.md` ← ⭐ the self-improving brain: Hermes + Mem0 + Graphiti + AgentZero
 - `departments/23-products-catalog.md` ← 🛠 what the coding/product dept can BUILD & SELL

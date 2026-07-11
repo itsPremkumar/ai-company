@@ -9,12 +9,13 @@
 | `odoo/odoo` | 52.9k | — | https://github.com/odoo/odoo (full business apps suite) |
 | `InvoicePlane/InvoicePlane` | 3.1k | — | https://github.com/InvoicePlane/InvoicePlane (self-hosted invoicing) |
 | `aureuserp/aureuserp` | 11.4k | — | https://github.com/aureuserp/aureuserp (open ERP) |
+| `kimai/kimai` | 4.8k | AGPL-3.0 | https://github.com/kimai/kimai (self-hosted time tracking + invoicing) |
 | `crewAIInc/crewAI` | 55.3k | MIT | https://github.com/crewAIInc/crewAI (role: CFO / Financial Analyst) |
 
 ## Why
 **ERPNext** is the complete open ERP (accounting + payroll + inventory) — one install covers Finance,
-Accounting, Payroll. Odoo is the alternative suite. InvoicePlane for invoicing. CrewAI CFO agent drives
-reports.
+Accounting, Payroll. Odoo is the alternative suite. InvoicePlane for invoicing. **Kimai** for
+self-hosted time tracking with invoicing export. CrewAI CFO agent drives reports.
 
 ## Integration
 AI CFO (CrewAI) → reads ERPNext financials → generates reports → sends to human owner for approval.

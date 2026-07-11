@@ -88,6 +88,7 @@
   `coollabsio/coolify` ✅ 58.2k, `minio/minio` ✅ 61.3k, Docker, Kubernetes, `grafana/loki`,
   `prometheus/prometheus`, `Kong/kong`, `rabbitmq/rabbitmq`, `nats-io/nats-server`, `ntfy-org/ntfy`,
   `centrifugal/centrifugo` ✅ 10.4k (Apache-2.0) — self-hosted real-time WebSocket/pubsub
+- `DigitalPlatDev/FreeDomain` ✅ 185k (AGPL-3.0) — free domain registration service (`.dpdns.org`, `.us.kg`, etc.)
 
 ## 💬 Internal Communication
 - `mattermost/mattermost` ✅ 38.3k (MIT) — self-hosted Slack alternative with AI integration

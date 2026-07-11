@@ -26,7 +26,7 @@
 | 16 | Finance | ERPNext, Odoo, InvoicePlane | Accounting, payroll |
 | 17 | Specialized AI Teams | CrewAI, OpenHands, MetaGPT, LangGraph, OpenClaw | Agent frameworks |
 | 18 | Video Generation | **your Automated-Video-Generator** + CogVideoX | Product #1 |
-| 19 | Infrastructure | Keycloak, Infisical, Coolify, MinIO, Grafana, Prometheus | Backbone |
+| 19 | Infrastructure | Keycloak, Infisical, Coolify, MinIO, Grafana, Prometheus, FreeDomain | Backbone + DNS |
 | 20 | Gap-Fillers | Documenso, LibreTranslate, cal.com, Postal, AgentOps, OpenAdapt | Missing functions |
 | 21 | E-Commerce | Medusa, Saleor, Vendure | Online store |
 | 22 | Self-Evolving Core | **Hermes (main)** + Mem0 + Graphiti + AgentZero | The improving brain |

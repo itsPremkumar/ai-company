@@ -52,6 +52,11 @@
 | `Kong/kong` | https://github.com/Kong/kong | API gateway |
 | `openziti/ziti` | https://github.com/openziti/ziti | Zero-trust networking |
 
+## DNS / Domains
+| Project | Link | Role |
+|---|---|---|
+| `DigitalPlatDev/FreeDomain` | https://github.com/DigitalPlatDev/FreeDomain (185k★, AGPL-3.0) | Free domain registration service (`.dpdns.org`, `.us.kg`, etc.) |
+
 ## Why
 This layer is what makes it *enterprise-grade* vs hobbyist. Keycloak (SSO), Infisical (secrets),
 Coolify (deploy), Grafana+Prometheus+Loki (observability), MinIO (assets), PostgreSQL (data) — all

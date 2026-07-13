@@ -7,6 +7,7 @@
 
 
 
+
 > Goal: a fully autonomous, AI-agent-operated company. Every department below maps to a
 > **free, open-source, self-hostable** project (MIT/Apache/GPL/BSD). All links verified on GitHub
 > (star counts pulled live). This folder is the blueprint — fork/customize any piece.

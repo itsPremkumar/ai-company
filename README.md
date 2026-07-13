@@ -5,6 +5,11 @@
 > — 100+ Hermes agent skills, 31 published ClawHub tools, and the autonomy-loop that drives it.
 > This `ai-company` repo is the *strategy/blueprint*; that repo is the *execution*.
 
+> **Companion repo:** The live, operational tooling that runs this blueprint lives at
+> [`itsPremkumar/Hermes-Full-Autonomous-Company`](https://github.com/itsPremkumar/Hermes-Full-Autonomous-Company)
+> — 100+ Hermes agent skills, 31 published ClawHub tools, and the autonomy-loop that drives it.
+> This `ai-company` repo is the *strategy/blueprint*; that repo is the *execution*.
+
 > Goal: a fully autonomous, AI-agent-operated company. Every department below maps to a
 > **free, open-source, self-hostable** project (MIT/Apache/GPL/BSD). All links verified on GitHub
 > (star counts pulled live). This folder is the blueprint — fork/customize any piece.
